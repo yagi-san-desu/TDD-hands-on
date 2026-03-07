@@ -1,2 +1,14 @@
 - $5+10CHF = $10
 - ~~$5\*2 = $10~~
+- ~~mountをprivateにする~~
+- ~~Dollarの副作用をどうする？~~
+- Moneyの丸目処理をどうする？
+- ~~equals()~~
+- hashCode()
+- nullとの等価性比較
+- ほかのオブジェクトとの等価性比較
+- ~~5CHF\*2 = 10CHF~~
+- ~~FrancとDollarの比較~~
+- ~~equalsの一般化~~
+- timesの一般化
+- FrancとDollarの重複
